@@ -7,4 +7,9 @@ h1 {
     color: #9cbb5e;
     padding: 20px;
     background-color: azure;
+    width: 100;
+}
+
+.introduction img{
+    border-radius: 50%;
 }
