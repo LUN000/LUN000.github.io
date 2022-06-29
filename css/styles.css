@@ -1,11 +1,11 @@
 .thumbnail{
     display: flex;
     position: absolute;
-    max-height: 60px
+    max-height: 120px;
+    flex-direction: column;
 }
 .content{
     display: flex;
-    position: absolute;
 }
 
 h1 {
