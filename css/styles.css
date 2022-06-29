@@ -1,6 +1,11 @@
 .thumbnail{
-    display: flexbox;
-    max-height: 75px
+    display: flex;
+    position: absolute;
+    max-height: 60px
+}
+.content{
+    display: flex;
+    position: absolute;
 }
 
 h1 {
