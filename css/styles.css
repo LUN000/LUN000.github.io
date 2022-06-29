@@ -1,7 +1,7 @@
 .thumbnail{
     display: flex;
     position: absolute;
-    max-height: 120px;
+    max-width: 100%;
     flex-direction: column;
 }
 .content{
