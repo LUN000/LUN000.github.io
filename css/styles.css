@@ -1,7 +1,6 @@
 .thumbnail{
     display: flexbox;
-    position: relative;
-    max-height: 150px
+    max-height: 75px
 }
 
 h1 {
